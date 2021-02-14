@@ -105,6 +105,9 @@ Apply best software design and development practices and document your approach,
 Good luck!
 
 
+Steps to execute is ...... to pass sampleinput.txt as program argument
+
+
 
 
 
